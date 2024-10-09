@@ -64,7 +64,7 @@ narwhals==1.9.1
 nh3==0.2.18
 numpy==2.1.2
 openai==1.51.0
-opencv-python==4.10.0.84
+opencv-python-headless
 packaging==24.1
 pandas==2.2.3
 pillow==10.4.0
